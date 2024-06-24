@@ -1,0 +1,50 @@
+Network Address: 20.1.1.0
+Broadcast Address: 20.1.1.255
+First IP - Last IP: 20.1.1.1 - 20.1.1.254
+Number of usable host address: 254
+--------------------
+Network Address: 200.0.1.64
+Broadcast Address: 200.0.1.79
+First IP - Last IP: 200.0.1.65 - 200.0.1.78
+Number of usable host address: 14
+--------------------
+Network Address: 192.168.1.24
+Broadcast Address: 192.168.1.31
+First IP - Last IP: 192.168.1.25 - 192.168.1.30
+Number of usable host address: 6
+--------------------
+Network Address: 172.16.56.0
+Broadcast Address: 172.16.63.255
+First IP - Last IP: 172.16.56.1 - 172.16.63.254
+Number of usable host address: 2046
+--------------------
+Network Address: 172.16.48.0
+Broadcast Address: 172.16.63.255
+First IP - Last IP: 172.16.48.1 - 172.16.63.254
+Number of usable host address: 4094
+--------------------
+Network Address: 10.0.0.0
+Broadcast Address: 10.255.255.255
+First IP - Last IP: 10.0.0.1 - 10.255.255.254
+Number of usable host address: 16777214
+--------------------
+Network Address: 10.0.0.0
+Broadcast Address: 10.3.255.255
+First IP - Last IP: 10.0.0.1 - 10.3.255.254
+Number of usable host address: 262142
+--------------------
+Network Address: 172.168.8.0
+Broadcast Address: 172.168.11.255
+First IP - Last IP: 172.168.8.1 - 172.168.11.254
+Number of usable host address: 1022
+--------------------
+Network Address: 172.167.192.0
+Broadcast Address: 172.167.255.255
+First IP - Last IP: 172.167.192.1 - 172.167.255.254
+Number of usable host address: 16382
+--------------------
+Network Address: 172.156.200.0
+Broadcast Address: 172.156.201.255
+First IP - Last IP: 172.156.200.1 - 172.156.201.254
+Number of usable host address: 510
+--------------------
