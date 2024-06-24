@@ -1,4 +1,4 @@
-# NWC Lab 4: Subnet Mask Conversion and Network Address Identification
+# MY CODE FOR SECOND TERM IN FPT UNIVERSITY
 
 This repository contains all of my work in second term at FPT University. 
 
