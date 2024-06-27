@@ -5,7 +5,7 @@ This repository contains all of my work in second term at FPT University.
 ## How to Use This Code
 
 1. **Installation**
-   - If you don't have git, install it: [text](https://git-scm.com/downloads)
+   - If you don't have git, install it: [Git install](https://git-scm.com/downloads)
    - Run the following command on your terminal:
      - Go to your working directory:
        ```bash
